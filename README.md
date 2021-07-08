@@ -24,5 +24,5 @@ Yea that's about it. And that's I think more about me.
 
 Also here some stuff I'm working at atm (sort of a TODO list):
 * asr-v2 (and therefore a new version of asrScript and ASRealize)
-* imgpwd (generating a password using an image as a seed)
+* imgpwd (generating a password using an image as a seed) [FINISHED!]
 * astc (Another Simple Threema Client)
