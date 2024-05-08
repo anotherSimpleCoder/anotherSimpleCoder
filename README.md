@@ -7,13 +7,12 @@ time with programming some stuff here and there and ends up pushing unfinished/a
 ### FAQ
 Note: If you have more questions just let me know.
 
-**What programming languages and do you use?**
+**What programming languages/frameworks and do you use?**
 * Typescript/Javascript
- * Frameworks:
-  * Angular
-  * Svelte
-  * React
-  * NestJS
+* Angular
+* Svelte
+* React
+* NestJS
 
 * Java (where I am mostly making use of the Spring Framework)
 * Golang
