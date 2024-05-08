@@ -9,11 +9,11 @@ Note: If you have more questions just let me know.
 
 **What programming languages and do you use?**
 * Typescript/Javascript
-** Frameworks:
-*** Angular
-*** Svelte
-*** React
-*** NestJS
+ * Frameworks:
+  * Angular
+  * Svelte
+  * React
+  * NestJS
 
 * Java (where I am mostly making use of the Spring Framework)
 * Golang
