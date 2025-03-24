@@ -1,7 +1,7 @@
 <h1 align="center">anotherSimpleCoder 😋</h1>
 
 # 💫 About Me:
-🔭 Currently working on <a href="https://github.com/anotherSimpleCoder/neith">Neith web framework</a> and <a href="https://github.com/anotherSimpleCoder/rcp">rcp</a>/<a href="https://github.com/anotherSimpleCoder/rcpd">rcpd</a><br>🤝 I’m looking for help with <a href="https://github.com/anotherSimpleCoder/neith">Neith</a><br>🌱 I’m currently learning C+, C# and Flutter<br>
+🔭 Currently working on <a href="https://github.com/anotherSimpleCoder/neith">Neith web framework</a> and <a href="https://github.com/anotherSimpleCoder/rcp">rcp</a>/<a href="https://github.com/anotherSimpleCoder/rcpd">rcpd</a><br>🤝 I’m looking for help with <a href="https://github.com/anotherSimpleCoder/neith">Neith</a><br>🌱 I’m currently learning C++, C# and Flutter<br>
 
 
 # 💻 Tech Stack:
